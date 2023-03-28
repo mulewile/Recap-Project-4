@@ -1,0 +1,8 @@
+.list {
+  display: grid;
+  justify-content: space-around;
+  max-width: 368px;
+  margin: 0 auto;
+  gap: 10px;
+  color: rgb(255, 153, 0);
+}
